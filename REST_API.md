@@ -371,3 +371,7 @@ test("User can create a new transaction", async () => {
 - **Exemplo:**
     > ***tsup ./src*** <!-- Transpila a pasta /src de TS para JS na pasta /dist -->
     > ***tsup ./src --out-dir ./build *** <!-- Transpila a pasta /src de TS para JS na pasta /build -->
+
+### Github CLI
+
+- Criar e Gerenciar Repositórios no Github pelo Terminal
