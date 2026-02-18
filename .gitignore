@@ -1,0 +1,15 @@
+# Dependencies
+node_modules
+
+# Database
+db/*.db
+
+# Environment Variables
+.env
+.env.test
+
+# ToDo's
+todo.md
+
+# Build
+/build

@@ -1,0 +1,33 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.ts",
+  "scripts": {
+    "dev": "tsx watch ./src/server.ts",
+    "test": "vitest",
+    "knex": "node --import tsx ./node_modules/.bin/knex",
+    "build": "tsup ./src --out-dir ./build",
+    "clear": "rm -r ./dist"
+  },
+  "author": "Gabriel Vinícius da Cruz",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@fastify/cookie": "^11.0.2",
+    "dotenv": "^17.2.3",
+    "fastify": "^5.6.2",
+    "knex": "^3.1.0",
+    "sqlite3": "^5.0.2",
+    "typescript": "^5.9.3",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^25.1.0",
+    "@types/supertest": "^6.0.3",
+    "supertest": "^7.2.2",
+    "tsup": "^8.5.1",
+    "tsx": "^4.21.0",
+    "vitest": "^4.0.18"
+  }
+}
