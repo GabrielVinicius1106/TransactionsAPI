@@ -8,7 +8,8 @@
     "test": "vitest",
     "knex": "node --import tsx ./node_modules/.bin/knex",
     "build": "tsup ./src --out-dir ./build",
-    "clear": "rm -r ./dist"
+    "clear": "rm -r ./dist",
+    "start": "node ./build/server.js"
   },
   "author": "Gabriel Vinícius da Cruz",
   "license": "ISC",

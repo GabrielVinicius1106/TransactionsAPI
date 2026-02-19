@@ -375,3 +375,5 @@ test("User can create a new transaction", async () => {
 ### Github CLI
 
 - Criar e Gerenciar Repositórios no Github pelo Terminal
+
+[] Deploy do App no Render
