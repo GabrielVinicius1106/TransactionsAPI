@@ -376,4 +376,10 @@ test("User can create a new transaction", async () => {
 
 - Criar e Gerenciar Repositórios no Github pelo Terminal
 
-[] Deploy do App no Render
+### Hospedagem
+
+- **Render** => Plataforma de hospedagem com plano gratuito ( webapps, backend, websites, etc. )
+
+- **Railway** => Outra plataforma
+
+- Para aplicações ***REAIS***, hospedagem gratuita ***NÃO EXISTE***
