@@ -87,7 +87,7 @@ Todas as rotas são prefixadas com `/transactions`.
 
 1. **Clone o repositório:**
 	```bash
-	git clone <repo-url>
+	git clone https://github.com/GabrielVinicius1106/TransactionsAPI.git
 	cd TransactionsAPI
 	```
 2. **Instale as dependências:**
