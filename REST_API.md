@@ -383,3 +383,5 @@ test("User can create a new transaction", async () => {
 - **Railway** => Outra plataforma
 
 - Para aplicações ***REAIS***, hospedagem gratuita ***NÃO EXISTE***
+
+- [] Deploy do App no Render 10:00 ***Essa merda não funcionaaaaaaaaaaaaaaaaaa!!!!!!***
